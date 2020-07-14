@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "40357816804",
+    "firebase_url": "https://infynotes-f27e4.firebaseio.com",
+    "project_id": "infynotes-f27e4",
+    "storage_bucket": "infynotes-f27e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40357816804:android:5d1046046c3938a6033ff1",
+        "android_client_info": {
+          "package_name": "com.example.infynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40357816804-rhepud40shaqu30hfpdl8m9snstalkdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjy4VQidcXcxgea1Nixbd5eEguV0w_Psw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40357816804-rhepud40shaqu30hfpdl8m9snstalkdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
